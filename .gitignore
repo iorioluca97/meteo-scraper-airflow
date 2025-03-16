@@ -1,0 +1,19 @@
+# Database
+/*.db
+
+# Logs
+*.log
+
+# Data
+data
+data
+plugins
+logs
+config
+
+# Virtual Environment
+venv
+/venv/
+venv/
+__pycache__
+__pycache__/
